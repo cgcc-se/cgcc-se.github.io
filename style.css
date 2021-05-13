@@ -1,4 +1,16 @@
 body {
+  background-color: #efe;
+  color: #333;
   margin: 10px 20vw;
   font-family: Roboto, Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.2em;
+  font-size: 120%;
+}
+
+a {
+  color: #22a;
+}
+
+li {
+  padding: 10px 0;
 }
