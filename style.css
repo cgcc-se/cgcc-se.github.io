@@ -10,7 +10,7 @@
 
 body {
   background-color: #fff;
-  animation: color 5s infinite;
+  animation: color 5s;
   margin: 5vh 20vw;
   font-family: 'Comic Sans MS', sans-serif;
   line-height: 0.5;
