@@ -1,9 +1,19 @@
+@keyframes color {
+  0%: {color: red};
+  16%: {color: orange};
+  33%: {color: yellow};
+  50%: {color: green};
+  66%: {color: blue};
+  84%: {color: purple};
+  100%: {color: red};
+}
+
 body {
   background-color: #fff;
-  color: #333;
+  animation: color 5s infinite;
   margin: 5vh 20vw;
-  font-family: sans-serif;
-  line-height: 1.6;
+  font-family: 'Comic Sans MS', sans-serif;
+  line-height: 0.5;
   font-size: 120%;
 }
 
